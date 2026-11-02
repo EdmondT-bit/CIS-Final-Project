@@ -24,7 +24,9 @@ N/A
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+*A menu screen with the title and a working “Play” button 
+*A short dialogue scene with visuals explaining the dragon’s attack, the princess’s capture, and the knight accepting the challenge
+*A boss fight, with health bars for both the knight and the dragon, fireball and swipe attacks that damage the player, and a way for the player to attack the dragon
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
