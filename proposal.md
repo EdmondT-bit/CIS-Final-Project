@@ -6,7 +6,7 @@ Rise of the Dragon Slayer
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-An interactive boss fight where the player takes on the role of a knight who must defeat a dragon to rescue a princess it has captured. 
+An interactive 2D boss fight where the player takes on the role of a knight who must defeat a dragon to rescue a princess it has captured. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
